@@ -13,7 +13,7 @@ function Footer() {
     <Container>
       <StyledFooter>
         <h2>Movie App</h2>
-        <p>Created by milzam@dev</p>
+        <p>Created by aufaroot18</p>
       </StyledFooter>
     </Container>
   );
