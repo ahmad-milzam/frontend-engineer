@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ahmad-milzam/frontend-engineer/static/css/main.68dd97c5.css",
-    "main.js": "/ahmad-milzam/frontend-engineer/static/js/main.c0ba14ff.js",
+    "main.js": "/ahmad-milzam/frontend-engineer/static/js/main.19964d6e.js",
     "static/js/787.d02d9e27.chunk.js": "/ahmad-milzam/frontend-engineer/static/js/787.d02d9e27.chunk.js",
     "index.html": "/ahmad-milzam/frontend-engineer/index.html",
     "main.68dd97c5.css.map": "/ahmad-milzam/frontend-engineer/static/css/main.68dd97c5.css.map",
-    "main.c0ba14ff.js.map": "/ahmad-milzam/frontend-engineer/static/js/main.c0ba14ff.js.map",
+    "main.19964d6e.js.map": "/ahmad-milzam/frontend-engineer/static/js/main.19964d6e.js.map",
     "787.d02d9e27.chunk.js.map": "/ahmad-milzam/frontend-engineer/static/js/787.d02d9e27.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68dd97c5.css",
-    "static/js/main.c0ba14ff.js"
+    "static/js/main.19964d6e.js"
   ]
 }
