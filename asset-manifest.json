@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ahmad-milzam/frontend-engineer/static/css/main.68dd97c5.css",
-    "main.js": "/ahmad-milzam/frontend-engineer/static/js/main.19964d6e.js",
-    "static/js/787.d02d9e27.chunk.js": "/ahmad-milzam/frontend-engineer/static/js/787.d02d9e27.chunk.js",
-    "index.html": "/ahmad-milzam/frontend-engineer/index.html",
-    "main.68dd97c5.css.map": "/ahmad-milzam/frontend-engineer/static/css/main.68dd97c5.css.map",
-    "main.19964d6e.js.map": "/ahmad-milzam/frontend-engineer/static/js/main.19964d6e.js.map",
-    "787.d02d9e27.chunk.js.map": "/ahmad-milzam/frontend-engineer/static/js/787.d02d9e27.chunk.js.map"
+    "main.css": "/frontend-engineer/static/css/main.68dd97c5.css",
+    "main.js": "/frontend-engineer/static/js/main.b16145c3.js",
+    "static/js/787.d02d9e27.chunk.js": "/frontend-engineer/static/js/787.d02d9e27.chunk.js",
+    "index.html": "/frontend-engineer/index.html",
+    "main.68dd97c5.css.map": "/frontend-engineer/static/css/main.68dd97c5.css.map",
+    "main.b16145c3.js.map": "/frontend-engineer/static/js/main.b16145c3.js.map",
+    "787.d02d9e27.chunk.js.map": "/frontend-engineer/static/js/787.d02d9e27.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68dd97c5.css",
-    "static/js/main.19964d6e.js"
+    "static/js/main.b16145c3.js"
   ]
 }
